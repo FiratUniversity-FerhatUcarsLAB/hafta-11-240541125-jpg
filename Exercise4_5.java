@@ -25,3 +25,28 @@ public class Exercise4_5 {
         System.out.println("any " + strangStrung + "more ");
     }
 }
+//Stack Diyagramı:
+main
+main→zoop
+main→zoop→baffle
+main→zoop→baffle→ping
+main→zoop
+main→zoop→baffle    
+main
+main→baffle
+main→baffle→ping
+main→baffle
+main
+//Tam çıktısı:
+just for
+any not more 
+It's breakfast 
+!
+
+
+
+
+
+
+
+    
