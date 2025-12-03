@@ -12,10 +12,10 @@ public class Exercise4_4 {
 
         // 1) Donus degerini kullanmayin -> ne oluyor?
         getNumber();
-
+// Derleyici hata vermez ama çıktı olarakta hiçbir sonuç vermez.
         // 2) void metodu ifade icinde kullanin -> ne oluyor?
         // System.out.println(sayHello() + 7);
-
+//Bu kod çalışmaz Çünkü sayHello() void olduğu için bir değer döndürmez.
         // Cevaplarinizi yorum olarak ekleyin.
     }
 }
