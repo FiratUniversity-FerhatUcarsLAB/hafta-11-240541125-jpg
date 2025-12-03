@@ -22,3 +22,19 @@ public class Exercise4_3 {
         System.out.println(".");
     }
 }
+//Stack Diyagramı:
+main
+main → zoop
+main → zoop → baffle
+main → zoop → baffle → ping
+main → zoop
+main → zoop → baffle
+main
+main → baffle
+main → baffle → ping
+main
+
+//Tam Çıktısı:
+No, I wug.
+You wugga wug.
+I wug.
